@@ -563,6 +563,11 @@ nav {
     }
 }
 
+.graphics{
+    margin-top: 70px;
+    background-color: #121212;
+    padding-top: 5px;
+}
 
 
 /* contect section  */
@@ -699,7 +704,6 @@ nav {
     }
 
     .section-continers {
-        margin-top: 0;
         margin: 20px;
     }
 
@@ -752,12 +756,15 @@ nav {
     .section-projects {
         margin: auto;
         padding: 3rem 1rem;
+    }
 
+    .graphics{
+        margin-top: 70px;
+        background-color: #121212;
     }
 
     .project-section {
         grid-template-columns: 1fr;
-
     }
 
     .project-content,
